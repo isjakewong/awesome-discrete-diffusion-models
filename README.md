@@ -6,7 +6,7 @@ A curated paper list for awesome dicrete diffusion models resources.
 
 ## Contribution
 
-Feel free to send [pull requests](pulls) to add more links!
+Feel free to send [pull requests](https://github.com/isjakewong/awesome-discrete-diffusion-models/pulls) to add more links!
 
 ## Table of Contents
 
