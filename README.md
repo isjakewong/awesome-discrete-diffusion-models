@@ -33,13 +33,13 @@ Feel free to send [pull requests](pulls) to add more links!
 
 * DiffusER: Discrete Diffusion via Edit-based Reconstruction, ICLR 2023  [[PDF](https://arxiv.org/pdf/2210.16886.pdf), [Code](https://github.com/machelreid/diffuser)]
 
-* Continuous diffusion for categorical data, arXiv 2022  [[PDF](https://dl.acm.org/doi/10.1145/3394486.3403237)
+* Continuous diffusion for categorical data, arXiv 2022  [[PDF](https://dl.acm.org/doi/10.1145/3394486.3403237)]
 
 * Self-conditioned Embedding Diffusion for Text Generation, NeurIPS 2022 [[PDF](https://arxiv.org/pdf/2211.04236.pdf)]
   
-* Diffusion-LM Improves Controllable Text Generation, NeurIPS 2022  [[PDF](https://arxiv.org/pdf/2205.14217.pdf)], [Code](https://github.com/XiangLi1999/Diffusion-LM.git)]
+* Diffusion-LM Improves Controllable Text Generation, NeurIPS 2022  [[PDF](https://arxiv.org/pdf/2205.14217.pdf), [Code](https://github.com/XiangLi1999/Diffusion-LM.git)]
 
-* Categorical SDEs with Simplex Diffusion, arXiv 2022  [[PDF](https://arxiv.org/pdf/2210.14784.pdf)
+* Categorical SDEs with Simplex Diffusion, arXiv 2022  [[PDF](https://arxiv.org/pdf/2210.14784.pdf)]
 
 #### Year 2021
 * Autoregressive Diffusion Models, ICLR 2022  [[PDF](https://arxiv.org/pdf/2110.02037.pdf)]
