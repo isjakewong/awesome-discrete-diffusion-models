@@ -2,7 +2,7 @@
 
  [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![GitHub stars](https://img.shields.io/github/stars/isjakewong/awesome-discrete-diffusion-models?color=yellow)  ![GitHub forks](https://img.shields.io/github/forks/isjakewong/awesome-discrete-diffusion-models?color=green&label=Fork)
 
-A curated paper list for awesome dicrete diffusion models resources.
+A curated list for awesome dicrete diffusion models resources.
 
 ## Contribution
 
@@ -47,6 +47,8 @@ Feel free to send [pull requests](https://github.com/isjakewong/awesome-discrete
 * Argmax Flows and Multinomial Diffusion: Learning Categorical Distributions, NeurIPS 2021  [[PDF](https://arxiv.org/pdf/2102.05379.pdf)]
   
 * Structured Denoising Diffusion Models in Discrete State-Spaces, NeurIPS 2021  [[PDF](https://arxiv.org/pdf/2107.03006.pdf)]
+
+* Discovering Non-monotonic Autoregressive Orderings with Variational Inference, ICLR 2021  [[PDF](https://arxiv.org/abs/2110.15797)]
 
 ## Blog Posts
 
