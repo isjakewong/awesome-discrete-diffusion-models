@@ -22,6 +22,8 @@ Feel free to send [pull requests](https://github.com/isjakewong/awesome-discrete
 
 * Diffusion Models: A Comprehensive Survey of Methods and Applications, arXiv 2022  [[PDF](https://arxiv.org/pdf/2209.00796)]
 
+* Diffusion Models for Non-autoregressive Text Generation: A Survey, arXiv 2022 [[PDF](https://arxiv.org/abs/2303.06574)]
+
 ### Papers
 
 #### Year 2022
