@@ -24,6 +24,7 @@ A "simple and effective" tutorial on Diffusion Language Models:
     <img src="https://github.com/user-attachments/assets/1f6b7ba2-b423-483a-9d11-bbbeb8a11860" alt="Everything Is AWESOME" style="width:50%;">
   </a>
 </p>
+
 ## Resources
 
 ### Surveys
