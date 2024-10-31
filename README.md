@@ -6,7 +6,7 @@ A curated list for awesome dicrete diffusion models resources.
 
 ## Contribution
 
-Feel free to send [pull requests](https://github.com/isjakewong/awesome-discrete-diffusion-models/pulls) to add more links!
+This repo is maintained by [Yingheng Wang](https://isjakewong.github.io), [Yair Schiff](https://yair-schiff.github.io/), and [Subham Sahoo](https://s-sahoo.com/). Feel free to send [pull requests](https://github.com/isjakewong/awesome-discrete-diffusion-models/pulls) to add more links!
 
 ## Table of Contents
 
