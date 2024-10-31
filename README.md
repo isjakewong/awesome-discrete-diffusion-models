@@ -35,6 +35,12 @@ A "simple and effective" tutorial on Diffusion Language Models:
 
 ### Papers
 
+#### Year 2023
+
+* Diffusion Language Models Can Perform Many Tasks with Scaling and Instruction-Finetuning, arXiv 2023 [[PDF](https://arxiv.org/abs/2308.12219.pdf), [Code](https://github.com/yegcjs/DiffusionLLM)]
+* DINOISER: Diffused Conditional Sequence Learning By Manipulating Noises, TACL [[PDF](https://arxiv.org/abs/2302.10025.pdf), [Code](https://github.com/yegcjs/DINOISER)]
+
+
 #### Year 2022
 * Analog Bits: Generating Discrete Data using Diffusion Models with Self-Conditioning, ICLR 2023  [[PDF](https://arxiv.org/pdf/2208.04202.pdf), [Code](https://github.com/google-research/pix2seq)]
 
