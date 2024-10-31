@@ -10,12 +10,20 @@ This repo is maintained by [Yingheng Wang](https://isjakewong.github.io), [Yair 
 
 ## Table of Contents
 
+* [Introduction](#introduction)
 * [Resources](#resources)
   * [Surveys](#surveys)
   * [Papers](#papers)
 * [Blog Posts](#blog-posts)
 * [Talks](#talks)
 
+## Introduction
+A "simple and effective" tutorial on Diffusion Language Models:
+<p align="center">
+  <a href="https://youtu.be/WjAUX23vgfg?si=bM1E-Bt-nwOmsVif" title="Click">
+    <img src="https://github.com/user-attachments/assets/5c6f19c4-e6d7-47c3-ba2e-792d7c02d2aa" alt="Everything Is AWESOME" style="width:50%;">
+  </a>
+</p>
 ## Resources
 
 ### Surveys
